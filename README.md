@@ -1,1 +1,1 @@
-# Reaktioyht-l-t-pelin-k-ytt-j-asennusaineistot-29.6.2021-30.11.2024
+# Reaktioyhtälöt-pelin käyttäjäasennusaineistot 29.6.2021-30.11.2024
